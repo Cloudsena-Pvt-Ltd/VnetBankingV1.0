@@ -1,0 +1,4 @@
+com\vnetbanking\pageObjects\LoginPage.class
+com\vnetbanking\testcases\Baseclass.class
+com\vnetbanking\Utilities\ReadConfig.class
+com\vnetbanking\testcases\TC_logintest_001.class

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-17T06:08:25Z" name="VnetbankingV1" finished-at="2024-06-17T06:12:31Z" duration-ms="245782">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T06:08:25Z" name="BankingTest" finished-at="2024-06-17T06:12:31Z" duration-ms="245782">
+      <class name="com.vnetbanking.testcases.TC_logintest_001">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.vnetbanking.testcases.TC_logintest_001@7b205dbd]" started-at="2024-06-17T06:08:25Z" name="setup" finished-at="2024-06-17T06:12:06Z" duration-ms="220615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:0, instance:com.vnetbanking.testcases.TC_logintest_001@7b205dbd]" started-at="2024-06-17T06:12:06Z" name="logintest" finished-at="2024-06-17T06:12:23Z" duration-ms="16999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.vnetbanking.testcases.TC_logintest_001@7b205dbd]" started-at="2024-06-17T06:12:23Z" name="TearDown" finished-at="2024-06-17T06:12:31Z" duration-ms="7971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.vnetbanking.testcases.TC_logintest_001 -->
+    </test> <!-- BankingTest -->
+  </suite> <!-- VnetbankingV1 -->
+</testng-results>
